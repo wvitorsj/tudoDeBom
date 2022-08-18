@@ -2,7 +2,7 @@
 # Tudo de bom
 
 API para a loja Tudo de Bom gerenciar suas transações.
-O sistema deve permitir cadastro de novos clientes, incluindo dados pessoais, dados para contato e controle de estoque.
+O sistema permite Cadastrar (C), Listar(R), Alterar(U) e Deletar(D) Clientes e Produtos, além disso permite Cadastrar(C), Listar(R) e Deletar(D) ordens de compras.
 
 
 
